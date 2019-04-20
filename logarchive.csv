@@ -1,0 +1,4 @@
+Tomcat,Catalina,INFO,2019-03-19 10:46:27.108,org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+Tomcat,Catalina,ERROR,2019-03-20 10:46:30.108,Application run failed
+Tomcat,Catalina,ERROR,2019-03-20 10:46:31.108,Application run failed
+Tomcat,Catalina,WARN,2019-03-19 10:57:27.108,org.apache.catalina.core.StandardServer.await Invalid shutdown command [GET / HTTP/1.1] received
