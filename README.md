@@ -10,3 +10,6 @@ Exposing of web endpoints for access of error, warnings or infos using the Flask
 
 2019-05-02 Testing of automation.
 Test 1  
+
+2019-05-29 Testing of automation.
+Test 2
